@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>祝福弹窗</string>
+	<key>CFBundleExecutable</key>
+	<string>祝福弹窗</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-879e00a32be1b4c500ab4cb2bbd827259c1eb98d51321e9f14b4984578002990.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>祝福弹窗</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>祝福弹窗</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,1 @@
+([('祝福弹窗', '/Users/lzk/Downloads/fullscreen/dist/祝福弹窗', 'EXECUTABLE')],)

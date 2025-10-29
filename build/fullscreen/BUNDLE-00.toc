@@ -1,0 +1,3 @@
+([('fullscreen',
+   '/Users/lzk/Downloads/fullscreen/dist/fullscreen',
+   'EXECUTABLE')],)
