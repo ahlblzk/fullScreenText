@@ -28,11 +28,16 @@ pip install pyqt5
 
 ### 基本运行
 
-进入项目目录，执行：
+进入项目目录，源码执行：
 
 ```bash
 python fullscreen.py
 ```
+
+### 快速运行
+
+进入dist目录，双击 `fullscreen.exe` 或者fullscreen.app 执行：
+
 
 ## 弹窗配置 ⚙️
 
